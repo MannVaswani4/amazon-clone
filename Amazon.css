@@ -136,7 +136,7 @@ pal{
 }
 
 .first-imp{
-    background-image: url(Images/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     height: 340px;
     background-size: cover;
     display: flex;
